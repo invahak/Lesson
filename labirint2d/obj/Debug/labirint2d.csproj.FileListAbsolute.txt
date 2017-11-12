@@ -1,0 +1,12 @@
+C:\Users\invahak\source\repos\labirint2d\labirint2d\bin\Debug\labirint2d.exe.config
+C:\Users\invahak\source\repos\labirint2d\labirint2d\bin\Debug\labirint2d.exe
+C:\Users\invahak\source\repos\labirint2d\labirint2d\bin\Debug\labirint2d.pdb
+C:\Users\invahak\source\repos\labirint2d\labirint2d\obj\Debug\labirint2d.csprojResolveAssemblyReference.cache
+C:\Users\invahak\source\repos\labirint2d\labirint2d\obj\Debug\labirint2d.Properties.Resources.resources
+C:\Users\invahak\source\repos\labirint2d\labirint2d\obj\Debug\labirint2d.csproj.GenerateResource.Cache
+C:\Users\invahak\source\repos\labirint2d\labirint2d\obj\Debug\labirint2d.csproj.CoreCompileInputs.cache
+C:\Users\invahak\source\repos\labirint2d\labirint2d\obj\Debug\labirint2d.exe
+C:\Users\invahak\source\repos\labirint2d\labirint2d\obj\Debug\labirint2d.pdb
+C:\Users\invahak\source\repos\labirint2d\labirint2d\obj\Debug\labirint2d.FormMenu.resources
+C:\Users\invahak\source\repos\labirint2d\labirint2d\obj\Debug\labirint2d.Formlevel1.resources
+C:\Users\invahak\source\repos\labirint2d\labirint2d\obj\Debug\labirint2d.Formlevel2.resources
